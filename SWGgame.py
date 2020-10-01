@@ -1,3 +1,4 @@
+# An Awesome project created by :--- SoumyaAgarwal
 import random
 chance=5
 computer=0
